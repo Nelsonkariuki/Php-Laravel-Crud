@@ -2,7 +2,7 @@
 # Fuel Efficiency Prediction - ReadMe
 
 ## Project Title: Fuel Efficiency Prediction Using Vehicle Characteristics
-### Researcher: Ronnie McLovin
+### Researcher:
 ### ORCID ID: 0009-0006-7325-8135
 ### Dataset: Vehicle Performance Data
 ### Metadata Standard: Data Documentation Initiative (DDI)
