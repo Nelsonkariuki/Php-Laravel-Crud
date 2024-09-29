@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/58714282-7034-46bf-a4f1-47d1e7889b67)
+
 # Fuel Efficiency Prediction - ReadMe
 
 ## Project Title: Fuel Efficiency Prediction Using Vehicle Characteristics
@@ -11,7 +11,7 @@
 # 1. Introduction
 Fuel efficiency is a critical factor in the automotive industry, impacting environmental sustainability and consumer economics. The ability to predict a vehicle's fuel efficiency based on its characteristics informs both manufacturers and consumers about energy consumption and ecological impacts. This project aims to leverage vehicle performance data to develop predictive models that estimate fuel efficiency, measured in miles per gallon (MPG), based on various vehicle attributes.
 
-# 2. ### Data Dictionary for Fuel Efficiency Prediction Dataset
+# 2. Data Dictionary for Fuel Efficiency Prediction Dataset
 
 | **Column Name**  | **Description**                                                                 | **Data Type**       |
 |-------------------|---------------------------------------------------------------------------------|----------------------|
@@ -25,6 +25,9 @@ Fuel efficiency is a critical factor in the automotive industry, impacting envir
 | **Origin**        | The country of origin of the vehicle (e.g., USA, Europe, Japan), which may influence design and fuel efficiency standards. | Categorical (string)  |
 
 
+## Notes:
+Continuous Variables: These are numerical values that can take any value within a range. They are useful for statistical analysis and modeling.
+Categorical Variables: These are discrete values that represent categories or groups. They can be numeric or text-based and may require encoding for machine learning models.
 
 # 3. Objectives
 The primary objective of this research is to develop a robust predictive model for fuel efficiency using machine learning algorithms. The specific goals include:
