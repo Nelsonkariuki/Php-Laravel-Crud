@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/58714282-7034-46bf-a4f1-47d1e7889b67)
 # Fuel Efficiency Prediction - ReadMe
 
 ## Project Title: Fuel Efficiency Prediction Using Vehicle Characteristics
@@ -11,25 +11,19 @@
 # 1. Introduction
 Fuel efficiency is a critical factor in the automotive industry, impacting environmental sustainability and consumer economics. The ability to predict a vehicle's fuel efficiency based on its characteristics informs both manufacturers and consumers about energy consumption and ecological impacts. This project aims to leverage vehicle performance data to develop predictive models that estimate fuel efficiency, measured in miles per gallon (MPG), based on various vehicle attributes.
 
-# 2. Dataset Overview
-The dataset utilized for this project consists of vehicle performance data, which includes the following columns:
+# 2. ### Data Dictionary for Fuel Efficiency Prediction Dataset
 
-The dataset utilized for this project consists of vehicle performance data, which includes the following columns:
-•	MPG: Miles per gallon, the dependent variable.
+| **Column Name**  | **Description**                                                                 | **Data Type**       |
+|-------------------|---------------------------------------------------------------------------------|----------------------|
+| **MPG**           | Miles per gallon; the target variable representing fuel efficiency of the vehicle. | Continuous (float)   |
+| **Cylinders**     | Number of cylinders in the engine, which can impact performance and fuel efficiency.  | Categorical (integer) |
+| **Displacement**  | Engine displacement measured in cubic inches, indicating the engine size.        | Continuous (float)   |
+| **Horsepower**    | Engine power output measured in horsepower, influencing the vehicle's performance. | Continuous (float)   |
+| **Weight**        | Weight of the vehicle in pounds, which affects fuel consumption and efficiency.   | Continuous (float)   |
+| **Acceleration**  | Time taken (in seconds) to accelerate from 0 to 60 mph, representing vehicle performance. | Continuous (float)   |
+| **Model Year**    | The year the vehicle model was produced, which may correlate with advancements in technology and efficiency. | Categorical (integer) |
+| **Origin**        | The country of origin of the vehicle (e.g., USA, Europe, Japan), which may influence design and fuel efficiency standards. | Categorical (string)  |
 
-•	Cylinders: Number of cylinders in the engine.
-
-•	Displacement: Engine displacement in cubic inches.
-
-•	Horsepower: Engine power output.
-
-•	Weight: Vehicle weight in pounds.
-
-•	Acceleration: Time taken to accelerate from 0 to 60 mph.
-
-•	Model Year: The year the vehicle model is produced.
-
-•	Origin: The country of origin of the vehicle.
 
 
 # 3. Objectives
