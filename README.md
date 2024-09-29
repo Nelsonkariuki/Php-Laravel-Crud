@@ -5,9 +5,6 @@
 ### Researcher: 
 ### ORCID ID: 0009-0006-7325-8135
 ### Dataset: Vehicle Performance Data
-### Metadata Standard: Data Documentation Initiative (DDI)
-
-## Introduction
 
 
 # 1. Introduction
@@ -55,7 +52,7 @@ The expected outcomes of this research include a predictive model that accuratel
 # 6. Conclusion
 This research project addresses a significant issue in the automotive industry by predicting fuel efficiency through vehicle characteristics. The results will be valuable for manufacturers and consumers alike, promoting energy-efficient vehicle choices and fostering a greater understanding of vehicle performance.
 
-#References
+# References
 
 https://ieeexplore.ieee.org/abstract/document/7480121
 https://onlinelibrary.wiley.com/doi/10.1155/2020/9263605
