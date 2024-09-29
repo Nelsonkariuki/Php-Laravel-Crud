@@ -13,6 +13,8 @@ Fuel efficiency is a critical factor in the automotive industry, impacting envir
 
 # 2. Data Dictionary for Fuel Efficiency Prediction Dataset
 
+This data dictionary provides a detailed description of each variable included in the Fuel Efficiency Prediction dataset. Understanding these variables is crucial for analyzing the relationships between vehicle characteristics and fuel efficiency, allowing for informed decision-making in the modeling process.
+
 | **Column Name**  | **Description**                                                                 | **Data Type**       |
 |-------------------|---------------------------------------------------------------------------------|----------------------|
 | **MPG**           | Miles per gallon; the target variable representing fuel efficiency of the vehicle. | Continuous (float)   |
