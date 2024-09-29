@@ -27,6 +27,7 @@ Fuel efficiency is a critical factor in the automotive industry, impacting envir
 
 ## Notes:
 Continuous Variables: These are numerical values that can take any value within a range. They are useful for statistical analysis and modeling.
+
 Categorical Variables: These are discrete values that represent categories or groups. They can be numeric or text-based and may require encoding for machine learning models.
 
 # 3. Objectives
