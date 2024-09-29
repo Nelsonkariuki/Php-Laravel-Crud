@@ -2,8 +2,9 @@
 # Fuel Efficiency Prediction - ReadMe
 
 ## Project Title: Fuel Efficiency Prediction Using Vehicle Characteristics
-### Researcher: 
+
 ### ORCID ID: 0009-0006-7325-8135
+
 ### Dataset: Vehicle Performance Data
 
 
