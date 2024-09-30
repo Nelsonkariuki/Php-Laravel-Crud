@@ -16,7 +16,7 @@ Fuel efficiency is a critical factor in the automotive industry, impacting envir
 ## Data-Specific Information
 The data-specific information for the Fuel Efficiency Prediction project is crucial for understanding the dataset's structure and its variables. While the data-specific details are described, the actual data dictionary or variable details are missing from the files. To address this gap, a comprehensive data dictionary is provided below. This dictionary outlines the key variables used in the analysis, including their definitions, data types, and significance in predicting fuel efficiency. Including this information enhances the dataset's usability and aids researchers in comprehending the relationship between vehicle characteristics and fuel efficiency metrics.
 
-This data dictionary provides a detailed description of each variable included in the Fuel Efficiency Prediction dataset. Understanding these variables is crucial for analyzing the relationships between vehicle characteristics and fuel efficiency, allowing for informed decision-making in the modeling process.
+
 
 | **Column Name**  | **Description**                                                                 | **Data Type**       |
 |-------------------|---------------------------------------------------------------------------------|----------------------|
